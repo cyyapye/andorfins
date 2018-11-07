@@ -2,6 +2,8 @@ platform:
 - x64
 environment:
   nodejs_version: "8"
+  GITHUB_TOKEN:
+    secure:: arm8qFHbCiMkIOB3p6RO3+jKxggNcs7e1gk71ES8kK/olpCixntBXv6fDYCwoJ29
 cache:
 - '%APPDATA%\npm-cache'
 - '%USERPROFILE%\.electron'
