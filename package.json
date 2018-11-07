@@ -1,8 +1,8 @@
 {
-  "name": "anti-todo",
-  "productName": "anti-todo",
+  "name": "andorfins",
+  "productName": "andorfins",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Get a rush of endorphins daily by listing your accomplishments. Inspired by Marc Andreessen's anti-todo.",
   "main": "src/index.ts",
   "scripts": {
     "start": "electron-forge start",
@@ -32,7 +32,7 @@
         "packageManager": "yarn"
       },
       "electronWinstallerConfig": {
-        "name": "anti_todo"
+        "name": "andorfins"
       },
       "electronInstallerDebian": {},
       "electronInstallerRedhat": {},
@@ -42,7 +42,7 @@
       },
       "windowsStoreConfig": {
         "packageName": "",
-        "name": "antitodo"
+        "name": "andorfins"
       }
     }
   },

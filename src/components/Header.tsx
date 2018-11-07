@@ -13,7 +13,7 @@ function Header(props: Header.propTypes) {
       <AppBar position="static" color="primary">
         <Toolbar>
           <Typography variant="h6" color="inherit">
-            Anti-Todo
+            Andorfins
           </Typography>
         </Toolbar>
       </AppBar>
