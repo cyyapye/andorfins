@@ -1,7 +1,7 @@
 {
   "name": "andorfins",
   "productName": "andorfins",
-  "version": "1.0.0",
+  "version": "0.0.7",
   "description": "Get a rush of endorphins daily by listing your accomplishments. Inspired by Marc Andreessen's anti-todo.",
   "main": "src/index.ts",
   "scripts": {
@@ -29,7 +29,8 @@
         ]
       },
       "electronPackagerConfig": {
-        "packageManager": "yarn"
+        "appCopyright": "Copyright (C) 2018 Alcarus, LLC",
+        "packageManager": "npm"
       },
       "electronWinstallerConfig": {
         "name": "andorfins"
